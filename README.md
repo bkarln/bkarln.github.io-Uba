@@ -1,2 +1,2 @@
-# bkarln.github.io/Uba
+# uba.github.io
 Interior-design
