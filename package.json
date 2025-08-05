@@ -1,6 +1,9 @@
-{
-  "name": "uba.github.io",
+{  
+  "name": "uba-studio",
+  "private": true,
   "version": "1.0.0",
+  "homepage": "https://uba.github.io/",
+  "type": "module",
   "description": "🌿 Projeto desenvolvido para apresentar o trabalho autoral do Ubá Studio: uma proposta estética baseada em sofisticação orgânica, paleta natural e navegação fluida.",
   "main": "src/main.jsx",
   "scripts": {
