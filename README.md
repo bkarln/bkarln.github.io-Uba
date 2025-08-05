@@ -6,7 +6,7 @@
 
 Você pode visitar o projeto publicado via GitHub Pages neste link:
 
-👉 [https://uba.github.io](uba.github.io)
+👉 [https://uba.github.io/](https://uba.github.io/)
 
 ## 🛠️ Tecnologias utilizadas
 
